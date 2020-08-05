@@ -56,15 +56,15 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 首先进入[Strikingly官网](http://strk.ly/?uc=kqXLGLiM31F) 进行注册和登录，注册完成之后你们会看到这个界面。
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig1.png?token=AQFKGQU7IAFOFLBBJCA6UV27FJ7GO)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig1.png?token=AQFKGQQFXW3BT5RC3PADIHC7FKEPK)
 
 这时，左上角显示的是免费版。之后请在***QQ群里，告知我你的账号邮箱和姓名***。 我会向你们发送协作邀请，在我发送之后，你会收到一封确认邮件，如下：
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig2.png?token=AQFKGQQSOD4EUZEHFM5Y2UC7FJ7JI)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig2.png?token=AQFKGQXVYQ6UQIBTTKHVDTC7FKEQO)
 
 确认之后进入编辑主页，注意到此时左上角是专业版logo
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig3.png?token=AQFKGQQQHA65PR3XNE3I6IK7FJ7KM)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig3.png?token=AQFKGQS7JR7MFB6KJZWG4SK7FKERK)
 
 至此，你已经加入到该网站的共同开发者团队了。对于任何人，在没有特殊说明的情况下，都具有编辑、删除、增添和**发布**的功能。
 
@@ -72,13 +72,13 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 我们对网页设计的主要操作集中在左边一栏的编辑器上。
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig4.png?token=AQFKGQU2YS6EHET2RNN4B2S7FJ7LQ)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig4.png?token=AQFKGQTVI4NOS4SBX5GSRE27FKES6)
 
 它分为站点设置编辑、页面管理、板块管理和发布管理四部分。
 
 ### 3.1 站点设置编辑
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig6.png?token=AQFKGQVJWRJUNKNXSKMHT6C7FJ7NQ)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig6.png?token=AQFKGQTBKY6UB3VPEXM4N3S7FKEWO)
 
 #### 3.1.1 风格： 模板、颜色、大小和对齐
 
@@ -109,7 +109,7 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 #### 3.1.2 设置: 后台逻辑、域名和自定义代码
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig5.png?token=AQFKGQTVU36ZMUNZ77PNVDK7FKB2M)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig5.png?token=AQFKGQWTWUBLWRR7TXTSLPK7FKEUC)
 
 这里主要是一些网站的后台设置如隐私服务、网站域名标识等，除了自定义代码以外，对网页设计帮助不大。
 
@@ -131,17 +131,17 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 进入管理时，可以执行页面的删减、添加、外部链接和新菜单的创建。
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig7.png?token=AQFKGQSKOPGXEZPYYLQEK3K7FKCWU)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig7.png?token=AQFKGQSU63BAJM5OQV3RC6S7FKEXM)
 
 需要注意的是，添加的所有界面都会在显示区的左侧菜单栏处显示。
 
 ### 3.3 板块管理： 页面功能元件和核心控件集合
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig8.png?token=AQFKGQTEO6I7PNSAVXQ6GUC7FKC7A)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig8.png?token=AQFKGQRS2XDU5UK6KPJWJXC7FKEYI)
 
 首先，板块控件是依附于页面的，也就是说，每一个页面都有自己独立的板块控件。当我们使用页面管理切换页面的时候，板块控件也会相应的被切换到不同的栏里，这符合我们预期。最强大的功能在于添加新板块时你可以选择的各类模块，这部分自己探索选择即可。唯一值得一提的是，在板块的设置里有“在导航栏中显示”一项，这是实现单页面“书签”切换的核心控件。
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig9.png?token=AQFKGQUDEBLUVGQ2ORML74K7FKDJA)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig9.png?token=AQFKGQWMGYMDQ77SR5SZ4D27FKFAA)
 
 举个例子，设想一个页面非常非常长，一共有一百二十个小标题，通过对小标题的索引进行超链接快速跳转，这就是书签的功能。在这里被实现到。
 
@@ -153,5 +153,5 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 ## Section 4. 模块编辑设置
 
-在右边的显示区，每一个板块都有自己的修改选项，可以调整文字、背景与网格分布。由于每个板块都有不一样的设置，大家自己探索吧！非常容易的。
+在右边的显示区，每一个板块都有自己的修改选项，可以调整文字、背景与网格分布。由于每个板块都有不一样的设置，在这里就不一一说明了。值得说明，有些板块的背景允许用动态的视频，十分酷炫。
 
