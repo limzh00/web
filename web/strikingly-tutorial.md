@@ -56,15 +56,15 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 首先进入[Strikingly官网](http://strk.ly/?uc=kqXLGLiM31F) 进行注册和登录，注册完成之后你们会看到这个界面。
 
-![](C:\Users\Administrator\Desktop\web\img\fig1.png)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig1.png?token=AQFKGQU7IAFOFLBBJCA6UV27FJ7GO)
 
 这时，左上角显示的是免费版。之后请在***QQ群里，告知我你的账号邮箱和姓名***。 我会向你们发送协作邀请，在我发送之后，你会收到一封确认邮件，如下：
 
-![](C:\Users\Administrator\Desktop\web\img\fig2.png)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig2.png?token=AQFKGQQSOD4EUZEHFM5Y2UC7FJ7JI)
 
 确认之后进入编辑主页，注意到此时左上角是专业版logo
 
-![](C:\Users\Administrator\Desktop\web\img\fig3.png)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig3.png?token=AQFKGQQQHA65PR3XNE3I6IK7FJ7KM)
 
 至此，你已经加入到该网站的共同开发者团队了。对于任何人，在没有特殊说明的情况下，都具有编辑、删除、增添和**发布**的功能。
 
@@ -72,9 +72,14 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 我们对网页设计的主要操作集中在左边一栏的编辑器上。
 
-![](C:\Users\Administrator\Desktop\web\img\fig4.png)
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig4.png?token=AQFKGQU2YS6EHET2RNN4B2S7FJ7LQ)
 
 它分为站点设置编辑、页面管理、板块管理和发布管理四部分。
 
 ### 3.1 站点设置编辑
 
+![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig6.png?token=AQFKGQVJWRJUNKNXSKMHT6C7FJ7NQ)
+
+#### 3.1.1 风格
+
+“风格”
