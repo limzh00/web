@@ -56,15 +56,15 @@ Strikingly是由华人团体仿照Wix创建的一个在线网站建站、托管�
 
 首先进入[Strikingly官网](http://strk.ly/?uc=kqXLGLiM31F) 进行注册和登录，注册完成之后你们会看到这个界面。
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig1.png?token=AQFKGQQFXW3BT5RC3PADIHC7FKEPK)
+![]( https://raw.githubusercontent.com/limzh00/web/master/web/img/fig1.png?token=AQFKGQTRRTHTBTO6KVPXG2S7FKFJ4 )
 
 这时，左上角显示的是免费版。之后请在***QQ群里，告知我你的账号邮箱和姓名***。 我会向你们发送协作邀请，在我发送之后，你会收到一封确认邮件，如下：
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig2.png?token=AQFKGQXVYQ6UQIBTTKHVDTC7FKEQO)
+![]( https://raw.githubusercontent.com/limzh00/web/master/web/img/fig2.png?token=AQFKGQQBCMYSQPJGAILOBU27FKFLM )
 
 确认之后进入编辑主页，注意到此时左上角是专业版logo
 
-![](https://raw.githubusercontent.com/limzh00/web/master/web/img/fig3.png?token=AQFKGQS7JR7MFB6KJZWG4SK7FKERK)
+![]( https://raw.githubusercontent.com/limzh00/web/master/web/img/fig3.png?token=AQFKGQV3WTRVH3NYQXAC3HS7FKFMK )
 
 至此，你已经加入到该网站的共同开发者团队了。对于任何人，在没有特殊说明的情况下，都具有编辑、删除、增添和**发布**的功能。
 
